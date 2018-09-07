@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="Project_001_初试" Height="450" Width="800">
     <Grid>
-        
+        <Button Content="自己的测试" HorizontalAlignment="Left" Margin="171,113,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Button Content="网络上找的的例子" HorizontalAlignment="Left" Margin="171,156,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click2"/>
+
     </Grid>
 </Window>

@@ -12,9 +12,9 @@ namespace Project_001_初试.XunFei
         /// <summary>
         /// 登入
         /// </summary>
-        /// <param name="usr"></param>
-        /// <param name="pwd"></param>
-        /// <param name="params"></param>
+        /// <param name="usr">此参数保留，传入NULL即可。</param>
+        /// <param name="pwd">此参数保留，传入NULL即可。</param>
+        /// <param name="params">appid=5b91df7f</param>
         /// <returns></returns>
         [DllImport("msc.dll", CallingConvention = CallingConvention.StdCall)]
         public static extern int MSPLogin(string usr, string pwd, string @params);
