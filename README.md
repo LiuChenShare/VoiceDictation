@@ -1,6 +1,7 @@
 # VoiceDictation
 C# 实现语音听写
 
+## 科大讯飞API（未成功）
 分享如何使用c#对接科大讯飞语音听写服务，简单高效地实现语音听写。
 
 学习文档：https://www.cnblogs.com/mohanchen/p/7218240.html
@@ -22,3 +23,6 @@ C# 实现语音听写
     概述文档：https://doc.xfyun.cn/msc_windows/
     
     Windows APi文档：http://mscdoc.xfyun.cn/windows/api/iFlytekMSCReferenceManual/files.html
+
+## 百度API
+在尝试使用科大讯飞的API受挫后，我把目光转向了百度，果然大厂的API文档及示例就要清晰很多，下面将针对于百度API进行开发
