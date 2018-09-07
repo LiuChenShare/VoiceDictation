@@ -15,6 +15,10 @@ C# 实现语音听写
 
 　　去讯飞开放平台申请相关的SDK
   
+3. NAudio.dll　　链接：https://pan.baidu.com/s/1hundpEs 密码：i1m2
+
+4. VoiceRecorder.Audio.dll　　链接：https://pan.baidu.com/s/1pMHGS6B 密码：fvmv
+  
     概述文档：https://doc.xfyun.cn/msc_windows/
     
     Windows APi文档：http://mscdoc.xfyun.cn/windows/api/iFlytekMSCReferenceManual/files.html
