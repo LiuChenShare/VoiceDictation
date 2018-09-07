@@ -14,3 +14,7 @@ C# 实现语音听写
 2. 语音听写库 msc.dll
 
 　　去讯飞开放平台申请相关的SDK
+  
+    概述文档：https://doc.xfyun.cn/msc_windows/
+    
+    Windows APi文档：http://mscdoc.xfyun.cn/windows/api/iFlytekMSCReferenceManual/files.html
