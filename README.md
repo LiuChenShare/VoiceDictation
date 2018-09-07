@@ -11,6 +11,6 @@ C# 实现语音听写
 
 　　http://pan.baidu.com/s/1dFth2nv
 
-2.语音听写库 msc.dll
+2. 语音听写库 msc.dll
 
 　　去讯飞开放平台申请相关的SDK
